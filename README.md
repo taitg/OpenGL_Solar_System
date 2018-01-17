@@ -1,6 +1,3 @@
-CPSC 453 Assignment 5 Fall 2016
-Geordie Tait (10013837)
-December 2016
 
 Created and compiled using Visual C++ 2015 on Windows 10.
 
